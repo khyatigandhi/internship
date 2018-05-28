@@ -1,0 +1,22 @@
+{
+    "students": [
+        {
+            "name": "Khyati",
+            "cpi": 9.9
+        },
+        {
+            "name": "Raj",
+            "cpi": 9.9
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Vinod",
+            "salary": 25000
+        },
+        {
+            "name": "Viniti",
+            "salary": 30000
+        }
+    ]
+}
